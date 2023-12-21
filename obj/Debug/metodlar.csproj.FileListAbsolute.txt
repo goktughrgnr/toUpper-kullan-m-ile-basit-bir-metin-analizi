@@ -1,0 +1,10 @@
+C:\Users\goktu\source\repos\uygulama2\metodlar\bin\Debug\metodlar.exe.config
+C:\Users\goktu\source\repos\uygulama2\metodlar\bin\Debug\metodlar.exe
+C:\Users\goktu\source\repos\uygulama2\metodlar\bin\Debug\metodlar.pdb
+C:\Users\goktu\source\repos\uygulama2\metodlar\obj\Debug\metodlar.csproj.AssemblyReference.cache
+C:\Users\goktu\source\repos\uygulama2\metodlar\obj\Debug\metodlar.Form1.resources
+C:\Users\goktu\source\repos\uygulama2\metodlar\obj\Debug\metodlar.Properties.Resources.resources
+C:\Users\goktu\source\repos\uygulama2\metodlar\obj\Debug\metodlar.csproj.GenerateResource.cache
+C:\Users\goktu\source\repos\uygulama2\metodlar\obj\Debug\metodlar.csproj.CoreCompileInputs.cache
+C:\Users\goktu\source\repos\uygulama2\metodlar\obj\Debug\metodlar.exe
+C:\Users\goktu\source\repos\uygulama2\metodlar\obj\Debug\metodlar.pdb
